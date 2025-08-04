@@ -44,6 +44,33 @@ This repository contains a collection of research references, organized for easy
 
 ---
 
+### 5. High Impact Educational Practices
+
+- Kuh, G. D. (2008). High impact educational practices: What they are, who has access to them, and why they matter. Association of American Colleges and Universities.
+  - https://navigate.utah.edu/_resources/documents/hips-kuh-2008.pdf
+  - [💾 Local in GitHub](Documents/hips-kuh-2008.pdf)
+
+---
+
+### 6. Motivation in Health Professions Education
+
+- Orsini, C., Binnie, V. I., & Wilson, S. L. (2016). Determinants and outcomes of motivation in health professions education: A systematic review based on Self Determination Theory. *Journal of Educational Evaluation for Health Professions, 13*, Article 19. https://doi.org/10.3352/jeehp.2016.13.19
+  - [💾 Local in GitHub](Documents/jeehp-13-19.pdf)
+
+
+---
+
+### 7. Active Learning in Higher Education
+
+- Ribeiro Silva, E., Amorim, C., Aparicio Herguedas, J. L., & Batista, P. (2022). Trends of active learning in higher education and students’ well being: A literature review. *Frontiers in Psychology, ?, Article 844236*. https://doi.org/10.3389/fpsyg.2022.844236
+  - [💾 Local in GitHub](Documents/fpsyg-13-844236.pdf)
+---
+
+### 8. Kolb’s Experiential Learning Cycle in Medical Education
+
+- Wijnen Meijer, M., Harendza, S., & Van d’Eerd, M. (2022). Implementing Kolb’s Experiential Learning Cycle by integrating experience, theory and simulation: A valuable addition to existing forms of medical education. *BMC Medical Education, 22*, Article 377. https://doi.org/10.1186/s12909-022-03520-1
+  - [💾 Local in GitHub](Documents/10.1177_23821205221091511.pdf)
+
 ## 🙏 ขอบคุณจากใจ (With Gratitude)
 
 ขอบคุณสำหรับงานวิจัยเหล่านี้ ที่สามารถทำให้สามารถต่อยอดจากวิจัยของผมได้ และถ้ายังไงอันนี้เป็น **ไฟล์สำรอง (backup files)** ไว้สำหรับตอนนำเสนอวิจัยนะ!  
